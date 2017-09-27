@@ -1,0 +1,1 @@
+function b(){alert("b")}console.log("demojs2");
